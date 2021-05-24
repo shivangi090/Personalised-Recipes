@@ -1,0 +1,60 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1{
+  font-family: 'Chela One', cursive;
+  font-size: 12vh;
+  text-align: center;
+  /* background-color :rgb(150, 217, 226); */
+  /* font-family: unset; */
+  color: teal;
+  text-shadow: 0rem 1rem 1rem #50b4c5;
+}
+
+.search{
+  /* text-align: center; */
+  border-radius: 0.5rem;
+  width: 40rem;
+  height: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d3d3d3;
+  
+  margin-bottom: 3rem;
+  box-shadow: 1rem 2rem 2rem #aaa;
+  position: relative;
+}
+.search input , .btn{
+  font-size: 4vh;
+  border: none;
+  border-bottom: 0.1rem solid #ccc;
+  margin: 0 0.5rem;
+  border-radius: 0.5rem;
+  height: 3rem;
+}
+
+.search input[type="text"] {
+  padding: 0 0.5rem;
+  width: 50%;
+  color: #555;
+}
+
+.btn {
+  width: 125px;
+  text-transform: uppercase;
+  background-color: #409db4;
+  color: #fff;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+h2{
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 6vh;
+  /* font-family: 'Times New Roman', Times, serif; */
+  color: #12515c;
+}
+

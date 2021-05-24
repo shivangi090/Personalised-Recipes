@@ -1,0 +1,72 @@
+.form{
+    position: absolute;
+    /* top: 0px; */
+    /* left: 700px; */
+    top: 45px;
+    left:370px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 35rem;
+    width: 35rem;
+    /* border: 2px solid red; */
+    box-shadow: 1rem 1rem 1rem 2rem rgb(179, 190, 184);
+    background-color: white;
+}
+
+.form input{
+    padding: 0 0.5rem;
+    width: 60%;
+    color: #555;
+    font-size: 1.2rem;
+  border: none;
+  border-bottom: 0.1rem solid #ccc;
+  margin: 0.5rem;
+  border-radius: 0.5rem;
+  height: 3rem;
+  background-color: rgba(189, 178, 178, 0.726);
+}
+.form input[type=file]{
+    all : revert;
+    font-size: 1rem;
+    border: none;
+    /* background-color: #409db4; */
+
+}
+.closeButton{
+    /* display: flex; */
+    /* width: 2rem; */
+    width: 35px;
+    position: absolute;
+    top: 0px;
+    left: 517px;
+    height: 2rem;
+    background-color: white;
+    /* opacity: 0.5; */
+    border: none;
+}
+img{
+    width: 30px;
+}
+#image-holder{
+    height: 8rem;
+    width: 8rem;
+    margin-top: 2rem;
+}
+.btnn{
+    /* display: inline; */
+    font-size: 1.2rem;
+    padding: 0.5rem;
+    width: 3.5rem;
+    height: 2.2rem;
+    background-color: #409db4;
+  color: #fff;
+  border: none;
+  border-radius: 1rem;
+    /* justify-content: left; */
+}
+.okbtn{
+    position: absolute;
+    top: 32rem;
+}
