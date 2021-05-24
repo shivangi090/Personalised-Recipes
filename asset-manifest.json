@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Personalised-Recipes/static/css/main.8822c7fe.chunk.css",
+    "main.js": "/Personalised-Recipes/static/js/main.a3a2ac3a.chunk.js",
+    "main.js.map": "/Personalised-Recipes/static/js/main.a3a2ac3a.chunk.js.map",
+    "runtime-main.js": "/Personalised-Recipes/static/js/runtime-main.8d095d7f.js",
+    "runtime-main.js.map": "/Personalised-Recipes/static/js/runtime-main.8d095d7f.js.map",
+    "static/js/2.200708b1.chunk.js": "/Personalised-Recipes/static/js/2.200708b1.chunk.js",
+    "static/js/2.200708b1.chunk.js.map": "/Personalised-Recipes/static/js/2.200708b1.chunk.js.map",
+    "static/js/3.f90e05ec.chunk.js": "/Personalised-Recipes/static/js/3.f90e05ec.chunk.js",
+    "static/js/3.f90e05ec.chunk.js.map": "/Personalised-Recipes/static/js/3.f90e05ec.chunk.js.map",
+    "index.html": "/Personalised-Recipes/index.html",
+    "static/css/main.8822c7fe.chunk.css.map": "/Personalised-Recipes/static/css/main.8822c7fe.chunk.css.map",
+    "static/js/2.200708b1.chunk.js.LICENSE.txt": "/Personalised-Recipes/static/js/2.200708b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d095d7f.js",
+    "static/js/2.200708b1.chunk.js",
+    "static/css/main.8822c7fe.chunk.css",
+    "static/js/main.a3a2ac3a.chunk.js"
+  ]
+}
