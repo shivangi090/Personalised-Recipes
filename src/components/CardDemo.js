@@ -1,5 +1,5 @@
 import React from 'react';
-import image from './images/bg2.webp'
+import image from './images/ordering.jpg'
 const CardDemo = ({ name, ingredients, steps }) => {
     return (
         <div className="card">
