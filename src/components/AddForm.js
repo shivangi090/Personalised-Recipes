@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import ReactDOM from 'react-dom';
+import close from './images/close1.jpg';
 import './form.css';
 // https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png
 const AddForm = ({ open, onClose }) => {
@@ -43,7 +44,7 @@ const AddForm = ({ open, onClose }) => {
     return ReactDOM.createPortal(
         <div>
             <form className="form">
-                <button className="closeButton" onClick={onClose}><img src="./images/close1.jpg" alt="close" /></button>
+                <button className="closeButton" onClick={onClose}><img src={close} alt="close" /></button>
                 <input
                     type="text"
                     value={name}

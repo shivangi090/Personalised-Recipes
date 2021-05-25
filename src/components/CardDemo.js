@@ -1,6 +1,6 @@
 import React from 'react';
+import image from './images/bg2.webp'
 const CardDemo = ({ name, ingredients, steps }) => {
-    const image = './images/bg2.webpnpm init'
     return (
         <div className="card">
             <div className="card_div">
